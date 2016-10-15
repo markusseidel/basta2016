@@ -1,0 +1,9 @@
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\bin\Release\Akka.Common.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\bin\Release\Akka.Common.pdb
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Release\Akka.Common.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Release\Akka.Common.pdb
+D:\__TEMP\akka\Akka.Common\bin\Release\Akka.Common.dll
+D:\__TEMP\akka\Akka.Common\bin\Release\Akka.Common.pdb
+D:\__TEMP\akka\Akka.Common\obj\Release\Akka.Common.csprojResolveAssemblyReference.cache
+D:\__TEMP\akka\Akka.Common\obj\Release\Akka.Common.dll
+D:\__TEMP\akka\Akka.Common\obj\Release\Akka.Common.pdb

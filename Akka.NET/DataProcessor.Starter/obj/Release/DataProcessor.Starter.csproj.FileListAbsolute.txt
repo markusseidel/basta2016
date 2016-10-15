@@ -1,0 +1,14 @@
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\DataProcessor.Starter.exe.config
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\DataProcessor.Starter.exe
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\DataProcessor.Starter.pdb
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\Akka.Common.dll
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\Akka.dll
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\DataProcessor.Akka.dll
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\Newtonsoft.Json.dll
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\Akka.Common.pdb
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\DataProcessor.Akka.pdb
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\Akka.xml
+D:\__TEMP\akka\DataProcessor.Starter\bin\Release\Newtonsoft.Json.xml
+D:\__TEMP\akka\DataProcessor.Starter\obj\Release\DataProcessor.Starter.csprojResolveAssemblyReference.cache
+D:\__TEMP\akka\DataProcessor.Starter\obj\Release\DataProcessor.Starter.exe
+D:\__TEMP\akka\DataProcessor.Starter\obj\Release\DataProcessor.Starter.pdb

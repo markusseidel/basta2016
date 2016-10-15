@@ -1,0 +1,15 @@
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\ConsoleApplication1\Akka.Common\obj\Debug\Akka.Common.csprojResolveAssemblyReference.cache
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\ConsoleApplication1\Akka.Common\bin\Debug\Akka.Common.dll
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\ConsoleApplication1\Akka.Common\bin\Debug\Akka.Common.pdb
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\ConsoleApplication1\Akka.Common\obj\Debug\Akka.Common.dll
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\ConsoleApplication1\Akka.Common\obj\Debug\Akka.Common.pdb
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\BDS.Akka\Akka.Common\bin\Debug\Akka.Common.dll
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\BDS.Akka\Akka.Common\bin\Debug\Akka.Common.pdb
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\BDS.Akka\Akka.Common\obj\Debug\Akka.Common.csprojResolveAssemblyReference.cache
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\BDS.Akka\Akka.Common\obj\Debug\Akka.Common.dll
+D:\_BUCHE\TVD\_PROJECTS\BDS.Akka\BDS.Akka\Akka.Common\obj\Debug\Akka.Common.pdb
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\bin\Debug\Akka.Common.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\bin\Debug\Akka.Common.pdb
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Debug\Akka.Common.csprojResolveAssemblyReference.cache
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Debug\Akka.Common.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Debug\Akka.Common.pdb

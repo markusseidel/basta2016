@@ -1,0 +1,14 @@
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\bin\Release\DataProcessor.Serial.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\bin\Release\DataProcessor.Serial.pdb
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\bin\Release\Akka.Common.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\bin\Release\Akka.Common.pdb
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\obj\Release\DataProcessor.Serial.csprojResolveAssemblyReference.cache
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\obj\Release\DataProcessor.Serial.dll
+D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\obj\Release\DataProcessor.Serial.pdb
+D:\__TEMP\akka\DataProcessor.Serial\bin\Release\DataProcessor.Serial.dll
+D:\__TEMP\akka\DataProcessor.Serial\bin\Release\DataProcessor.Serial.pdb
+D:\__TEMP\akka\DataProcessor.Serial\bin\Release\Akka.Common.dll
+D:\__TEMP\akka\DataProcessor.Serial\bin\Release\Akka.Common.pdb
+D:\__TEMP\akka\DataProcessor.Serial\obj\Release\DataProcessor.Serial.csprojResolveAssemblyReference.cache
+D:\__TEMP\akka\DataProcessor.Serial\obj\Release\DataProcessor.Serial.dll
+D:\__TEMP\akka\DataProcessor.Serial\obj\Release\DataProcessor.Serial.pdb

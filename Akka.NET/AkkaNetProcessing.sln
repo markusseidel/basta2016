@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaGui", "AkkaGui\AkkaGui.csproj", "{754E22F5-CFB5-4DE1-A886-0E3A10CC0FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.Common", "Akka.Common\Akka.Common.csproj", "{E835D088-A6A5-4E03-B62E-B1DC790F89D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessor.Serial", "DataProcessor.Serial\DataProcessor.Serial.csproj", "{F2CC4B02-7B76-4188-99BC-F132BB89F7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessor.Akka", "DataProcessor.Akka\DataProcessor.Akka.csproj", "{01826E6E-9C46-4321-952E-359311F21D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessor.Starter", "DataProcessor.Starter\DataProcessor.Starter.csproj", "{A4060F62-1853-48ED-9F49-46CDC3F3EE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754E22F5-CFB5-4DE1-A886-0E3A10CC0FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754E22F5-CFB5-4DE1-A886-0E3A10CC0FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754E22F5-CFB5-4DE1-A886-0E3A10CC0FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754E22F5-CFB5-4DE1-A886-0E3A10CC0FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E835D088-A6A5-4E03-B62E-B1DC790F89D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E835D088-A6A5-4E03-B62E-B1DC790F89D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E835D088-A6A5-4E03-B62E-B1DC790F89D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E835D088-A6A5-4E03-B62E-B1DC790F89D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CC4B02-7B76-4188-99BC-F132BB89F7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CC4B02-7B76-4188-99BC-F132BB89F7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CC4B02-7B76-4188-99BC-F132BB89F7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CC4B02-7B76-4188-99BC-F132BB89F7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01826E6E-9C46-4321-952E-359311F21D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01826E6E-9C46-4321-952E-359311F21D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01826E6E-9C46-4321-952E-359311F21D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01826E6E-9C46-4321-952E-359311F21D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4060F62-1853-48ED-9F49-46CDC3F3EE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4060F62-1853-48ED-9F49-46CDC3F3EE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4060F62-1853-48ED-9F49-46CDC3F3EE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4060F62-1853-48ED-9F49-46CDC3F3EE49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mmtfs.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AkkaGui\\AkkaGui.csproj
+		SccProjectName1 = AkkaGui
+		SccLocalPath1 = AkkaGui
+		SccProjectUniqueName2 = Akka.Common\\Akka.Common.csproj
+		SccProjectName2 = Akka.Common
+		SccLocalPath2 = Akka.Common
+		SccProjectUniqueName3 = DataProcessor.Serial\\DataProcessor.Serial.csproj
+		SccProjectName3 = DataProcessor.Serial
+		SccLocalPath3 = DataProcessor.Serial
+		SccProjectUniqueName4 = DataProcessor.Akka\\DataProcessor.Akka.csproj
+		SccProjectName4 = DataProcessor.Akka
+		SccLocalPath4 = DataProcessor.Akka
+		SccProjectUniqueName5 = DataProcessor.Starter\\DataProcessor.Starter.csproj
+		SccProjectName5 = DataProcessor.Starter
+		SccLocalPath5 = DataProcessor.Starter
+	EndGlobalSection
+EndGlobal
