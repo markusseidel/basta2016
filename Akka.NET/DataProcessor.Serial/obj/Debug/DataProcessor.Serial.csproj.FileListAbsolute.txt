@@ -19,3 +19,10 @@ D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\bin\Debug\Akka.C
 D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\obj\Debug\DataProcessor.Serial.csprojResolveAssemblyReference.cache
 D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\obj\Debug\DataProcessor.Serial.dll
 D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\DataProcessor.Serial\obj\Debug\DataProcessor.Serial.pdb
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\bin\Debug\DataProcessor.Serial.dll
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\bin\Debug\DataProcessor.Serial.pdb
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\bin\Debug\Akka.Common.dll
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\bin\Debug\Akka.Common.pdb
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\obj\Debug\DataProcessor.Serial.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\obj\Debug\DataProcessor.Serial.dll
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\DataProcessor.Serial\obj\Debug\DataProcessor.Serial.pdb

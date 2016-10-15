@@ -13,3 +13,8 @@ D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\bin\Debug\Akka.Common.pdb
 D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Debug\Akka.Common.csprojResolveAssemblyReference.cache
 D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Debug\Akka.Common.dll
 D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\Akka.Common\obj\Debug\Akka.Common.pdb
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\Akka.Common\bin\Debug\Akka.Common.dll
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\Akka.Common\bin\Debug\Akka.Common.pdb
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\Akka.Common\obj\Debug\Akka.Common.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\Akka.Common\obj\Debug\Akka.Common.dll
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\Akka.Common\obj\Debug\Akka.Common.pdb

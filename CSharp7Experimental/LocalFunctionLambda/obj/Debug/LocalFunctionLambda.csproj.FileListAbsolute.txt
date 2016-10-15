@@ -1,0 +1,1 @@
+C:\Users\Markus\Source\Repos\Samples\CSharp7Experimental\LocalFunctionLambda\bin\Debug\LocalFunctionLambda.exe.config

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\AkkaGui\obj\Debug\
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\AkkaGui\obj\Debug\
 AkkaGui
 none
 false
 DEBUG;TRACE
-D:\_BUCHE\_TFS\2016_AkkaNETProcessing\MAIN\AkkaGui\App.xaml
+C:\Users\Markus\Source\Repos\Basta2016\Akka.NET\AkkaGui\App.xaml
 11151548125
 5-427858966
 10845814112
-23904703425
+23-110982726
 MainWindow.xaml;
 
 False
